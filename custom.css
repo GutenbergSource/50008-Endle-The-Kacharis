@@ -1,0 +1,18 @@
+
+
+table.alignedtext td.first, table.alignedtext td.second { width: 50% }
+
+table.alignedtext td.first { padding-right: 0.5em; }
+
+table.alignedtext td.second { padding-left: 0.5em; }
+
+table.parlike {
+    margin-left: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table.parlike td {
+    padding-left: 0;
+    padding-right: 0.5em;
+}
